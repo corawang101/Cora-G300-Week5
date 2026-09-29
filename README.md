@@ -12,3 +12,10 @@ I added a `CanDestroy` boolean to the Pong ball. Normally, this value is false. 
 
 ## Bonus Score
 Bonus score zones that give more points than normal score zones.
+
+# Vaporwave Pong
+
+I used purple, pink, and blue colors to create a retro arcade aesthetic. The paddles and ball use bright neon-style materials, while the UI and particle effects follow the same color scheme. The game includes sound effects for gameplay interactions and scoring. A particle effect also appears when a player scores to make the scoring event more noticeable and satisfying.
+
+## Sound Sources
+https://freesound.org/people/JW_Audio/sounds/830033/
